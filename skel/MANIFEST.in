@@ -1,7 +1,6 @@
 recursive-include doc_src *
 recursive-include docs *
 
-recursive-include $$$$PKG_NAME$$$$/media *
 recursive-include $$$$PKG_NAME$$$$/templates *
 
 include LICENSE
